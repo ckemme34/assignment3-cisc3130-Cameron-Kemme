@@ -1,6 +1,6 @@
 # CISC 3130 MY9 Data Structures Assignment 3 - Cameron Kemme
 
-##Introduction
+## Introduction
   
   Assignment 3 involves preparing a text file (i.e lyrics, document etc) to analyze the frequency of words in it. 
 Within our code, we will be able read from a text file and store the data into a data structure. 
