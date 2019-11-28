@@ -12,6 +12,12 @@ The method I used to carry out this task was to import the lyrics into a hash ma
 print the number of occurances along with its count. The code involves the use of a scanner to read in the lyrics, an array as an
 intermediary structure, two hashmaps, and an array list as an intermediary to the sorted hash map. 
 
+## Compilation
+
+ Example commands for running this file
+ *  Compilation:  javac -Xlint wordCount.java
+ *  Execution:    java wordCount
+
 ## Authors
 
 * **Cameron Kemme**
