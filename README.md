@@ -1,4 +1,4 @@
-# CISC 3130 MY9 Data Structures Assignment 3 - Cameron Kemme
+# CISC 3130 MY9 Data Structures Assignment 3 - C. Kemme
 
 ## Introduction
   
