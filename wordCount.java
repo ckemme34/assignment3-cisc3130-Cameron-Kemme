@@ -6,11 +6,12 @@ import java.io.*;
  * Name: Cameron Kemme Assignment 3
  *
  * The purpose of this code is to read in lyrics and let the user know the number of occurrences. 
- * The code simple scanner to read in the lyrics and put it into an expandable list. This
+ * The code uses asimple scanner to read in the lyrics and put it into an expandable list. This
  * list is then copied to an array for the ability to know its size. Finally it,
  * is added to a hash map for sorting and counting. For our test case I chose Post Malone's Better Now
  * for its repetition. 
  */
+
 /**
  * The wordCount class checks the word frequency of a lyric text file.
  */
